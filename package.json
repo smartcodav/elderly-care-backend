@@ -1,0 +1,15 @@
+{
+  "name": "elderly-care-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Elderly Care AI Companion",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "sqlite3": "^5.0.0",
+    "twilio": "^3.56.0"
+  }
+}
